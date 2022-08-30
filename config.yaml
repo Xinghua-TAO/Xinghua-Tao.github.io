@@ -1,0 +1,16 @@
+baseURL: https://tao_tao.com
+# baseurl = "/"
+# relativeurls = true
+googleAnalytics: UA/G-123123-12
+languageCode: en-us
+enableEmoji: yes
+theme: avicenna
+title: tao_tao
+paginate: 10
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: no
+    startLevel: 1
+params:
+  name: tao_tao
